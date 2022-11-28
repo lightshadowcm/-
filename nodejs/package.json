@@ -1,5 +1,15 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "moongose": "^1.0.0"
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "introduccion",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "misiontic20022",
+  "license": "ISC"
 }
